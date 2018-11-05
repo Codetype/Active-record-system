@@ -1,0 +1,1 @@
+Simple Student-Course-Grade system based on Active Record Pattern.
